@@ -6,6 +6,8 @@ public class User {
 
     int age;
 
+    String color;
+
     public String getName() {
         return name;
     }
