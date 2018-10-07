@@ -8,6 +8,10 @@ public class User {
 
     String color;
 
+    public String getColor() {
+        return color;
+    }
+
     public String getName() {
         return name;
     }
